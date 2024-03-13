@@ -1,5 +1,5 @@
 # ESP32
 
-## Lista de proyecto:
+## Lista de proyectos:
 
 1. 
