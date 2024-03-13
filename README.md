@@ -1,6 +1,8 @@
 # ESP32
 
-[Referencia](https://github.com/espressif/arduino-esp32/tree/master)
+[Mas ejemplos](https://github.com/espressif/arduino-esp32/tree/master)
+
+[Documentacion oficial de ESPRESSIF](https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html)
 
 ## Lista de proyectos:
 
