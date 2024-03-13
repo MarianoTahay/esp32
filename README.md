@@ -1,5 +1,19 @@
 # ESP32
 
+[Referencia](https://github.com/espressif/arduino-esp32/tree/master)
+
 ## Lista de proyectos:
 
-1. 
+1. GPIO:
+    - [a] - Prender y apagar un led.
+    - [b] - Leer el estado de un pin.
+    - [c] - Luces de navidad.
+
+2. PWM:
+    - [a] - Controlar el brillo de un led.
+    - [b] - Controlar la velocidad de un motor.
+    - [c] - Generador de onda cuadrada.
+
+3. WIFI:
+
+4. BLUETOOTH:
